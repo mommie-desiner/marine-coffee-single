@@ -19,18 +19,17 @@
 }
 input, textarea{
     font-size: 15px;
-    width: 400px;
+    width: 100%;
     padding: 2px 4px;
     margin-bottom: 10px;
 }
 .submit-button{
     margin: 20px auto;
-    font-size: 18px;
-    width: 100%;
+    font-size: 22px;
+    width: 50%;
     background-color:#e0c0a1;
     color: #4c4e52;
     border: none;
-    height: 60px;
+    height: 80px;
     border-radius: 5px;
-    box-shadow: 2px 2px 3px #cdcdcd;
 }
