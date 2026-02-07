@@ -21,6 +21,9 @@
         font-size: 18px;
         height: 60px;
     }
+    select{
+        width: 300px;
+    }
 }
 @media(max-width: 670px){
     .header-left{
@@ -47,6 +50,9 @@
     }
     .menu-card{
         width: 100%;
+    }
+    select{
+        width: 200px;
     }
     .submit-button{
         width: 80%;
